@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1 - Neural Networks and Deep Learning/W4-BuildingYourDeepNeuralNetworkStepByStep" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - Neural Networks and Deep Learning/W4-DeepNeuralNetworkApplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - Neural Networks and Deep Learning/W3-PlanarDataClassificationWithOnehiddenLayer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2 - Improving Deep Neural Networks/W1-Initialization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2 - Improving Deep Neural Networks/W1-Regularization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2 - Improving Deep Neural Networks/W1-Gradient_Checking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2 - Improving Deep Neural Networks/W2-OptimizationMethods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2 - Improving Deep Neural Networks/W3-TensorFlowTutorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Convolutional Neural Networks/W1-ConvolutionalModelApplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - Neural Networks and Deep Learning/W2-LogisticRegressionWithANeuralNetworkMindset" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Convolutional Neural Networks/W2-KerasTutorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Convolutional Neural Networks/W2-ResNets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Convolutional Neural Networks/W3-CarDetectionForAutonomousDriving" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Convolutional Neural Networks/W4-FaceRecognition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Convolutional Neural Networks/W4-NeuralStyleTransfer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Sequence Models/W1- BuildingARecurrentNeuralNetworkStepByStep" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Sequence Models/W1-DinosaurIslandCharacterLevelLanguageModel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Sequence Models/W1-JazzImprovisationWithLSTM" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Sequence Models/W2-Emojify" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Sequence Models/W2-WordVectorRepresentation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Sequence Models/W3-MachineTranslation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Sequence Models/w3-TriggerWordDetection" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (DeepLearning1)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+</module>
